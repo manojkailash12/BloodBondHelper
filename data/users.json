@@ -32,5 +32,17 @@
     "age": 25,
     "email_verified": false,
     "phone_verified": false
+  },
+  {
+    "username": "Admin21",
+    "email": "admin2@gmail.com",
+    "phone": "8431046931",
+    "password": "70e92f684087f55607d63908f74d7e9d708f4581fb713fdf9271342f01fbc67f",
+    "user_type": "donor",
+    "registration_date": "2025-07-10T13:26:45.234430",
+    "blood_group": "A+",
+    "age": 25,
+    "email_verified": false,
+    "phone_verified": false
   }
 ]
