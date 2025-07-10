@@ -9,4 +9,6 @@ dependencies = [
     "plotly>=6.2.0",
     "streamlit-folium>=0.25.0",
     "streamlit>=1.46.1",
+    "psycopg2-binary>=2.9.10",
+    "sqlalchemy>=2.0.41",
 ]
