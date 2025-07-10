@@ -1,0 +1,36 @@
+[
+  {
+    "username": "Manoj2005",
+    "email": "admin@gmail.com",
+    "phone": "8871397335",
+    "password": "70e92f684087f55607d63908f74d7e9d708f4581fb713fdf9271342f01fbc67f",
+    "user_type": "donor",
+    "registration_date": "2025-07-07T15:40:12.852225",
+    "blood_group": "A+",
+    "age": 21
+  },
+  {
+    "username": "Manoj272005",
+    "email": "manojkailash1@gmail.com",
+    "phone": "9019889766",
+    "password": "990ee60450cd405da5ba107f44b03ca6da9c22ccb75b82d6a5d0139460886df0",
+    "user_type": "donor",
+    "registration_date": "2025-07-07T16:07:20.468155",
+    "blood_group": "A+",
+    "age": 21,
+    "email_verified": false,
+    "phone_verified": false
+  },
+  {
+    "username": "admin",
+    "email": "admin1@gmail.com",
+    "phone": "8971397335",
+    "password": "70e92f684087f55607d63908f74d7e9d708f4581fb713fdf9271342f01fbc67f",
+    "user_type": "donor",
+    "registration_date": "2025-07-10T17:34:44.921716",
+    "blood_group": "A+",
+    "age": 25,
+    "email_verified": false,
+    "phone_verified": false
+  }
+]
