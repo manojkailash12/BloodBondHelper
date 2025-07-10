@@ -107,15 +107,15 @@ Preferred communication style: Simple, everyday language.
 - Single-instance deployment model
 
 ### Production Considerations
-- JSON files provide quick setup but should be migrated to proper database
-- No external database dependencies currently
+- JSON files provide reliable data persistence in `/data` folder
+- No external database dependencies - fully self-contained
 - Notification services need API key configuration
 - Map services use free OpenStreetMap tiles
 
 ### Scalability Notes
-- Current file-based storage suitable for small to medium deployments
-- Easy migration path to database systems (PostgreSQL recommended)
-- Modular design allows for component scaling
+- File-based storage chosen for simplicity and reliability
+- Data stored in structured JSON format in `/data` directory
+- Modular design allows for easy maintenance and updates
 - Stateless design except for session management
 
 ### Security Features
